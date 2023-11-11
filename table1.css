@@ -1,0 +1,53 @@
+.contianer{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 90%;
+    /* background-color: blue; */
+    margin: auto;
+}
+table,tr,td{
+    /* border: 2px solid ; */
+    /* border-collapse: collapse; */
+    padding: 15px;
+    border-bottom: 1px solid gray;
+    text-align: center;
+
+
+}
+table{
+    width: 90%;
+    margin: auto;
+}
+caption{
+    font-size: 25px;
+    font-weight: bold;
+    text-transform: capitalize;
+    margin-bottom: 10px;
+}
+th{
+    background-color: rgb(42, 42, 228);
+    color: aliceblue;
+    padding: 10px 0px;
+
+}
+.icon{
+    color: green;
+    
+}
+.icon1{
+    color: red;
+}
+.gr{
+    background-color: green;
+    border-radius: 5px;
+    color: aliceblue;
+    padding: 3px;
+}
+.gr1{
+    background-color: red;
+    border-radius: 5px;
+    color: aliceblue;
+    padding: 3px;
+}
+
+
