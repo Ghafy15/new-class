@@ -1,0 +1,42 @@
+.contianer{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 90%;
+    /* background-color: blue; */
+    margin: auto;
+}
+table,tr,td{
+    border: 1px solid gray;
+    border-collapse: collapse;
+    padding: 10px;
+    border-bottom: 1px solid gray;
+    text-align: center;
+
+
+}
+thead{
+    background-color: rgb(47, 47, 241);
+    font-weight: bold;
+    font-size: 20px;
+    color: aliceblue;
+
+}
+table{
+    width: 90%;
+    margin: auto;
+}
+caption{
+    font-size: 25px;
+    font-weight: bold;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+    text-align: left;
+    padding-top: 15px;
+}
+tr:nth-child(even){
+    background-color: rgb(192, 192, 192);
+}
+tr:hover{
+    background-color: gray;
+}
+
